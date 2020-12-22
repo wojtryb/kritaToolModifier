@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Service
-ServiceTypes=Krita/PythonPlugin
-X-KDE-Library=toolModifier
-X-Python-2-Compatible=false
-Name=toolModifier
-Comment=toolModifier
